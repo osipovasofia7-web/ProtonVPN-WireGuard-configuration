@@ -23,7 +23,7 @@ jobs:
 
     - name: Run Downloader Script
       env:
-        VPN_USERNAME: ${{ secrets.ika }}
+        VPN_USERNAME: ${{ secrets.osipova.sofia.7@gmail.com}}
         VPN_PASSWORD: ${{ secrets.^Vw7a[rX[$5zIP8y }}
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
